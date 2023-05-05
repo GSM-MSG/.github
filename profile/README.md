@@ -1,6 +1,9 @@
 # 안녕하세요! [MSG 팀](https://matsogeum.notion.site/MSG-7ac3204e54e0484c9b1a63f472aa3e95) 입니다
 ###### 더욱 감칠맛나는 세상을 위해.
 
+<img src="https://user-images.githubusercontent.com/74440939/236406518-ad0cdcd3-22cd-4193-b6e2-c850559a2463.gif" width="100%">
+
+
 ### MSG팀은 일상의 불편함을 해결하기 위해 노력하고 있습니다.
 
 학교를 재학하며 여러 불편한 점들에 대해 알게 되었고, 그러한 불편한 점을 해결하고자

@@ -1,4 +1,4 @@
-# 안녕하세요! [MSG 팀](https://matsogeum.notion.site/MSG-7ac3204e54e0484c9b1a63f472aa3e95) 입니다
+# 안녕하세요! [MSG 팀](https://matsougeum.notion.site/MSG-ff531444277543c2a026f08ccf37caa8?pvs=4) 입니다
 ###### 더욱 감칠맛나는 세상을 위해.
 
 <img src="https://user-images.githubusercontent.com/74440939/236406518-ad0cdcd3-22cd-4193-b6e2-c850559a2463.gif" width="50%">
